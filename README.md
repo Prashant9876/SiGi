@@ -37,12 +37,3 @@ SiGi is released under the MIT License. See the `LICENSE` file for more details.
 
 Enjoy building and customizing your SiGi - the smart, sociable mobile robot! 🤖📱
 
-Source: Conversation with Bing, 7/4/2024
-(1) readme-template · GitHub Topics · GitHub. https://github.com/topics/readme-template.
-(2) iot-projects · GitHub Topics · GitHub. https://github.com/topics/iot-projects.
-(3) GitHub - embedded-projects/mobile-robot: A simple chassis-based robot .... https://github.com/embedded-projects/mobile-robot.
-(4) How to Write Stunning Github README.md [Template Provided]. https://dev.to/rohit19060/how-to-write-stunning-github-readme-md-template-provided-5b09.
-(5) An awesome README template to jumpstart your projects! - GitHub. https://github.com/othneildrew/Best-README-Template.
-(6) undefined. https://github.com/Rohit19060/.
-(7) undefined. https://example.com.
-(8) undefined. https://github.com/your_username_/Project-Name.git.
