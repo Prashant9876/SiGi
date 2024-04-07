@@ -2,9 +2,9 @@
 
 Welcome to the repository for SiGi, a smart mobile robot that can be controlled using your phone. SiGi is designed to interact with its environment, greeting people it encounters and navigating spaces with ease.
 
-![SiGi Robot](Sigi Robot.jpg)
+![SiGi Robot](https://github.com/Prashant9876/SiGi/blob/main/Images/Sigi%20Robot.jpg)
 
-[Watch SiGi in action](robo Image1.mp4)
+[Watch SiGi in action](https://github.com/Prashant9876/SiGi/blob/main/Images/robo%20Image1.mp4)
 
 
 ## Features
